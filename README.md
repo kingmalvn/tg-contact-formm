@@ -1,5 +1,5 @@
 ### Simple Contact Form on Production
-- By [Gifted Tech](https://github.com/mouricedevs)
+- By [Malvin Tech](https://github.com/kingmalvn)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -57,12 +57,12 @@ https://github.com/user-attachments/assets/eaf6c654-4d70-4b5c-aadc-51cf0c51632a
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
-- Insert your bot_token and chat_id in the [`.env file`](https://github.com/mouricedevs/tg-contact-form/blob/main/.env) on your forked repo or manually in heroku vars or any other platform before deploying.
+- Insert your bot_token and chat_id in the [`.env file`](https://github.com/kingmalvn/tg-contact-formm/blob/main/.env) on your forked repo or manually in heroku vars or any other platform before deploying.
 
 - [`VERCEL(free)`](https://vercel.com/login)
 - [`RENDER(free)`](https://dashboard.render.com)
 - [`KOYEB(free)`](https://app.koyeb.com)
-- [`HEROKU(paid)`](https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/tg-contact-form)
+- [`HEROKU(paid)`](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/tg-contact-formm)
 - [`NETLIFY(paid)`](https://netlify.app)
 - [`RAILWAY(paid)`](https://railway.app) or your own hosting.
 ___
@@ -99,6 +99,6 @@ VERCEL PROCESS:
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
 - **[CONTACT SUPPORT](https://contact-gifted-tech.vercel.app) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [GITHUB PROFILE](https://github.com/mouricedevs) for more Projects.**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z) for Daily Updates.**
+- **Check out my [GITHUB PROFILE](https://github.com/kingmalvn) for more Projects.**
 </details>
