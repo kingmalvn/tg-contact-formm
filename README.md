@@ -83,11 +83,11 @@ VERCEL PROCESS:
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-***Here's an Example [`VERCEL OUTPUT`](https://contact-gifted-tech.vercel.app).***
+***Here's an Example [`VERCEL OUTPUT`](tg-contact-formm.vercel.app).***
 
-***Here's an Example [`HEROKU OUTPUT`](https://contact-gifted-tech-1ca422e2a570.herokuapp.com).***
+***Here's an Example [`HEROKU OUTPUT`](tg-contact-formm.vercel.app).***
 
-***Here's an Example [`RENDER OUTPUT`](https://contact-gifted-tech.vercel.app).***
+***Here's an Example [`RENDER OUTPUT`](tg-contact-formm.vercel.app).***
 
 
 </details>
@@ -98,7 +98,7 @@ VERCEL PROCESS:
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://contact-gifted-tech.vercel.app) For More Info**
+- **[CONTACT SUPPORT](tg-contact-formm.vercel.app) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z) for Daily Updates.**
 - **Check out my [GITHUB PROFILE](https://github.com/kingmalvn) for more Projects.**
 </details>
