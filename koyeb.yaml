@@ -1,7 +1,7 @@
 version: "1.0"
 services:
-  - name: tg-contact-form
-    image: mouricedevs/tg-contact-form:latest
+  - name: tg-contact-formm
+    image: kingmalvn/tg-contact-formm:latest
     build:
       context: .
       dockerfile: Dockerfile
