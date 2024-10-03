@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mouricedevs/tg-contact-form.git"
+    "url": "git+https://github.com/kingmalvn/tg-contact-formm.git"
   },
   "keywords": [
     "telegram",
@@ -28,7 +28,7 @@
   "author": "Gifted Tech",
   "license": "GNU",
   "bugs": {
-    "url": "https://github.com/mouricedevs/tg-contact-form/issues"
+    "url": "https://github.com/kingmalvn/tg-contact-formm/issues"
   },
-  "homepage": "https://github.com/mouricedevs/tg-contact-form#readme"
+  "homepage": "https://github.com/kingmalvn/tg-contact-formm#readme"
 }
